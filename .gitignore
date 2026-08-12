@@ -1,0 +1,11 @@
+**/.env
+**/.venv/
+**/node_modules/
+**/dist/
+**/__pycache__/
+**/*.pyc
+**/.DS_Store
+**/.idea/
+EchoMind/data/chroma/
+EchoMind/data/eval/
+EchoMind/logs/
